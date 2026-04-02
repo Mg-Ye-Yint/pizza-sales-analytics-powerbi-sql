@@ -4,10 +4,6 @@ The goal was simple: take raw transactional data and turn it into meaningful ins
 ![KPI](KPI)
 ![Problems-1](Problems-1.png)
 ![Problems-2](Problems-2.png)
-![Dashboard-1](Dashboard-1.png)
-![Dashboard-2](Dashboard-2.png)
-![SQL](SQL.png)
-![CSV](CSV.png)
 ________________________________________
 📊 Project Overview
 The dataset contains detailed order-level information including:
@@ -58,6 +54,9 @@ o	Total orders
 Filters
 •	Pizza category slicer
 •	Date range filter
+
+![SQL](SQL.png)
+![CSV](CSV.png)
 ________________________________________
 📈 Key Insights
 •	Classic category generates the highest number of sales overall
@@ -66,9 +65,7 @@ ________________________________________
 •	Mid-year months show stronger performance compared to others
 •	A few top pizzas drive a significant portion of total revenue
 •	Some items consistently underperform and could be reviewed or removed
-________________________________________
-🧠 What I Learned
-•	How to move from raw data → SQL → dashboard smoothly
-•	Writing aggregation queries for business KPIs
-•	Designing dashboards that are both clean and informative
-•	Using filters and visuals to tell a clear story
+
+![Dashboard-1](Dashboard-1.png)
+![Dashboard-2](Dashboard-2.png)
+
